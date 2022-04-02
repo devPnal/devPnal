@@ -2,8 +2,9 @@
 
 ### Repository Icon Guide
 
-`💽 Released applications`  
+`💽 Applications`  
 `📚 Libraries`  
 `📜 Plugins`  
 `🌏 Websites`  
-`ﾠ🍴 Forked repositories`
+`ﾠ🍴 Forked repositories`  
+`🔔 Others`
